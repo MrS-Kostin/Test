@@ -1,0 +1,245 @@
+* {
+  overflow-x: hidden;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.v11_41 {
+  width: 480px;
+  height: 600px;
+  background: rgba(155,144,144,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v22_16 {
+  width: 240px;
+  height: 60px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 540px;
+  left: 240px;
+  overflow: hidden;
+}
+.v11_67 {
+  width: 240px;
+  height: 60px;
+  background: rgba(175,91,91,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v11_72 {
+  width: 129px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 9px;
+  left: 55px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+.v22_15 {
+  width: 240px;
+  height: 60px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 540px;
+  left: 0px;
+  overflow: hidden;
+}
+.v11_71 {
+  width: 240px;
+  height: 60px;
+  background: rgba(175,91,91,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v11_73 {
+  width: 197px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 9px;
+  left: 20px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+.v22_14 {
+  width: 480px;
+  height: 60px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 480px;
+  left: 0px;
+  overflow: hidden;
+}
+.v11_66 {
+  width: 480px;
+  height: 60px;
+  background: rgba(196,196,196,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v11_69 {
+  width: 195px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 18px;
+  left: 142px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.v22_13 {
+  width: 480px;
+  height: 120px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 360px;
+  left: 0px;
+  overflow: hidden;
+}
+.v11_68 {
+  width: 480px;
+  height: 120px;
+  background: rgba(196,196,196,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v11_70 {
+  width: 195px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 44px;
+  left: 142px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.v22_12 {
+  width: 480px;
+  height: 120px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 240px;
+  left: 0px;
+  overflow: hidden;
+}
+.v11_64 {
+  width: 480px;
+  height: 120px;
+  background: rgba(175,91,91,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v11_63 {
+  width: 216px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2px;
+  left: 132px;
+  font-family: Roboto;
+  font-weight: Regular;
+  opacity: 1;
+  text-align: center;
+}
+.v22_11 {
+  width: 480px;
+  height: 120px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 120px;
+  left: 0px;
+  overflow: hidden;
+}
+.v11_53 {
+  width: 480px;
+  height: 120px;
+  background: rgba(196,196,196,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v11_62 {
+  width: 293px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 13px;
+  left: 93px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 72px;
+  opacity: 1;
+  text-align: center;
+}
+.v22_9 {
+  width: 480px;
+  height: 120px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v11_54 {
+  width: 480px;
+  height: 120px;
+  background: rgba(175,91,91,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v11_61 {
+  width: 157px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 8px;
+  left: 161px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 72px;
+  opacity: 1;
+  text-align: center;
+}
